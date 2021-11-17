@@ -1,4 +1,4 @@
-module github.com/dkkyeremateng/firestore
+module github.com/dkkyeremateng/firestore/v1
 
 go 1.17
 
